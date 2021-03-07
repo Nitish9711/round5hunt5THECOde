@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/round5hunt5THECOde/static/css/main.57cbafcd.chunk.css",
-    "main.js": "/round5hunt5THECOde/static/js/main.02a09e39.chunk.js",
-    "main.js.map": "/round5hunt5THECOde/static/js/main.02a09e39.chunk.js.map",
+    "main.js": "/round5hunt5THECOde/static/js/main.6f1ea6e5.chunk.js",
+    "main.js.map": "/round5hunt5THECOde/static/js/main.6f1ea6e5.chunk.js.map",
     "runtime-main.js": "/round5hunt5THECOde/static/js/runtime-main.50cb76d9.js",
     "runtime-main.js.map": "/round5hunt5THECOde/static/js/runtime-main.50cb76d9.js.map",
     "static/css/2.35a5e105.chunk.css": "/round5hunt5THECOde/static/css/2.35a5e105.chunk.css",
-    "static/js/2.14f2fcfc.chunk.js": "/round5hunt5THECOde/static/js/2.14f2fcfc.chunk.js",
-    "static/js/2.14f2fcfc.chunk.js.map": "/round5hunt5THECOde/static/js/2.14f2fcfc.chunk.js.map",
+    "static/js/2.7ad49b42.chunk.js": "/round5hunt5THECOde/static/js/2.7ad49b42.chunk.js",
+    "static/js/2.7ad49b42.chunk.js.map": "/round5hunt5THECOde/static/js/2.7ad49b42.chunk.js.map",
     "index.html": "/round5hunt5THECOde/index.html",
-    "precache-manifest.1c683f11228213edf244647c060cb5b6.js": "/round5hunt5THECOde/precache-manifest.1c683f11228213edf244647c060cb5b6.js",
+    "precache-manifest.2c0cad60731cf28e58f17800e3af6444.js": "/round5hunt5THECOde/precache-manifest.2c0cad60731cf28e58f17800e3af6444.js",
     "service-worker.js": "/round5hunt5THECOde/service-worker.js",
     "static/css/2.35a5e105.chunk.css.map": "/round5hunt5THECOde/static/css/2.35a5e105.chunk.css.map",
     "static/css/main.57cbafcd.chunk.css.map": "/round5hunt5THECOde/static/css/main.57cbafcd.chunk.css.map",
-    "static/js/2.14f2fcfc.chunk.js.LICENSE.txt": "/round5hunt5THECOde/static/js/2.14f2fcfc.chunk.js.LICENSE.txt",
+    "static/js/2.7ad49b42.chunk.js.LICENSE.txt": "/round5hunt5THECOde/static/js/2.7ad49b42.chunk.js.LICENSE.txt",
+    "static/media/log.jpg": "/round5hunt5THECOde/static/media/log.d312409c.jpg",
     "static/media/notifications.css": "/round5hunt5THECOde/static/media/notification.c0d3c94c.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.50cb76d9.js",
     "static/css/2.35a5e105.chunk.css",
-    "static/js/2.14f2fcfc.chunk.js",
+    "static/js/2.7ad49b42.chunk.js",
     "static/css/main.57cbafcd.chunk.css",
-    "static/js/main.02a09e39.chunk.js"
+    "static/js/main.6f1ea6e5.chunk.js"
   ]
 }
