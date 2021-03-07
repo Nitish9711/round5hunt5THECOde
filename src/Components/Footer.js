@@ -37,7 +37,7 @@ const Footer = () => {
 				<Button
 					variant="outlined"
 					color="secondary"
-					href="https://forms.gle/E3whQBUYP5DaCCV86"
+					href="https://forms.gle/xFotSapGGhE4JMtF6"
 				>
 					Click here to submit you participation!
 				</Button>

@@ -48,7 +48,7 @@ const InputField = () => {
 		setValue(event.target.value);
 	};
 	const handleAnswer = () => {
-		if (value.toLowerCase().toString() === process.env.REACT_APP_ANSWER) {
+		if (value.toLowerCase().toString() === process.env.REACT_APP_ANSWER.toLowerCase().toString()) {
 			setCorrect(true);
 			NotificationManager.success(
 				"Click on Next Round",
@@ -94,9 +94,9 @@ const InputField = () => {
 						<Button
 							variant="outlined"
 							color="secondary"
-							href={process.env.REACT_APP_NEXT_ROUND}
+							
 						>
-							Next Round
+							EVENT CLEARED
 						</Button>
 					) : (
 						<Button
