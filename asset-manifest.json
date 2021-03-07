@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/round5hunt5THECOde/static/css/main.57cbafcd.chunk.css",
+    "main.js": "/round5hunt5THECOde/static/js/main.2e9d29e8.chunk.js",
+    "main.js.map": "/round5hunt5THECOde/static/js/main.2e9d29e8.chunk.js.map",
+    "runtime-main.js": "/round5hunt5THECOde/static/js/runtime-main.50cb76d9.js",
+    "runtime-main.js.map": "/round5hunt5THECOde/static/js/runtime-main.50cb76d9.js.map",
+    "static/css/2.35a5e105.chunk.css": "/round5hunt5THECOde/static/css/2.35a5e105.chunk.css",
+    "static/js/2.14f2fcfc.chunk.js": "/round5hunt5THECOde/static/js/2.14f2fcfc.chunk.js",
+    "static/js/2.14f2fcfc.chunk.js.map": "/round5hunt5THECOde/static/js/2.14f2fcfc.chunk.js.map",
+    "index.html": "/round5hunt5THECOde/index.html",
+    "precache-manifest.ab557a19e10ad69106bf119a016a15b4.js": "/round5hunt5THECOde/precache-manifest.ab557a19e10ad69106bf119a016a15b4.js",
+    "service-worker.js": "/round5hunt5THECOde/service-worker.js",
+    "static/css/2.35a5e105.chunk.css.map": "/round5hunt5THECOde/static/css/2.35a5e105.chunk.css.map",
+    "static/css/main.57cbafcd.chunk.css.map": "/round5hunt5THECOde/static/css/main.57cbafcd.chunk.css.map",
+    "static/js/2.14f2fcfc.chunk.js.LICENSE.txt": "/round5hunt5THECOde/static/js/2.14f2fcfc.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/round5hunt5THECOde/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50cb76d9.js",
+    "static/css/2.35a5e105.chunk.css",
+    "static/js/2.14f2fcfc.chunk.js",
+    "static/css/main.57cbafcd.chunk.css",
+    "static/js/main.2e9d29e8.chunk.js"
+  ]
+}
